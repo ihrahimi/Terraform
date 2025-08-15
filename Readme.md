@@ -4,7 +4,7 @@ This repository contains Terraform configurations to provision and manage cloud 
 ### 📜 **Changelog**  
 Track updates and improvements in [`CHANGELOG.md`](./CHANGELOG.md).
 
-## 🚀 Getting Started
+### 🚀 Getting Started
 
 Clone the repository: 
 
